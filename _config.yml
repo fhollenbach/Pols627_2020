@@ -15,7 +15,7 @@ theme: jekyll-theme-slate
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 
 
-production_url : https://fhollenbach.github.io/Pols627_2020
+production_url : http://fhollenbach.github.io/Pols627_2020
 
 JB :
   version : 0.3.0
