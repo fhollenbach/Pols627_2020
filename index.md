@@ -203,6 +203,8 @@ __Readings:__
   
 ## Week 2 (01/23): PE of Economic Development, Institutions, & Growth Models
 
+Presentation: Max Allamong
+
 __Readings:__
 
 - Acemoglu, Daron, Simon Johnson and James A. Robinson. 2001. "__The Colonial Origins of Comparative Development: An Empirical Investigation.__" American Economic Review, 91(5):1369–1401.
@@ -227,6 +229,8 @@ __Supplementary Readings:__
 Economics 94(9-10): 700-729.
 
 ## Week 3 (01/30): Origins of the State (in Europe):
+
+Presentation: Niels Appeldorn
 
 __Readings:__
     
@@ -255,6 +259,8 @@ __Supplementary Readings:__
   
   
 ## Week 4 (02/06): Regime Change
+
+Presentation: Jonghoon Lee 
 
 __Readings:__
   
@@ -290,6 +296,8 @@ __Supplementary Readings:__
   
 ## Week 5 (02/13): Political Economy of Autocracies
 
+Presentation: Mingsi Song & Lauren Bondarenko
+
 __Readings:__
 
 - Olson, Mancur. 1993. "__Dictatorship, Democracy, and Development.__" American Political Science Review. 87(3): 567-76
@@ -315,6 +323,8 @@ __Supplementary Readings:__
   
   
 ## Week 6 (02/20): Bureaucracies, Bureaucratic Capture, Corruption:
+
+Presentation: Christy Phillips
 
 __Readings:__
 
@@ -356,6 +366,8 @@ __Supplementary Readings:__
  
 ## Week 7 (02/27): Micro-Preferences & Preference Formation:
 
+Presentation: Yeon Soo Park & Jongwoo Jeong
+
 __Readings:__
 
 - Iversen, Torben and David Soskice. 2001. "__An Asset Theory of Social Policy Preferences.__" American Political Science Review. 95(4): 875-893.
@@ -389,6 +401,8 @@ __Supplementary Readings:__
   
   
 ## Week 8 (03/05): Macro-Preferences & Preference Aggregation: Constitutions, Electoral Systems, & Elections:
+
+Presentation: Keigo Tanabe
 
 __Readings:__
 
@@ -444,6 +458,8 @@ pp.1-64.
 
 ## Week 9 (03/19): Macro-Preferences & Preference Aggregation: Political Parties & Legislative Organization:
 
+Presentation: Andrea Junqueira
+
 __Readings:__
   
 - Aldrich, John H. 1995. "__Why Parties?__ Chicago, Il: University of Chicago Press. Chapter 1.
@@ -479,6 +495,8 @@ __Supplementary Readings:__
   
 ## Week 10 (03/26): Retrospective & Economic Voting:
 
+Presentation: Thiago Moreira & James Dongjin Kim
+
 __Readings:__
 
 - Hibbs, Douglass A. 2006. "__Voting and the Macroeconomy.__" In: The Oxford Handbook of Political Economy. Chapter 31.
@@ -503,6 +521,7 @@ __Supplementary Readings:__
  
 ## Week 11 (04/02): Taxation: 
 
+Presentation: Joo Won Yi
 
 __Readings:__
 
@@ -538,6 +557,8 @@ __Supplementary Readings:__
  
 ## Week 12 (04/09): Monetary Policy & Finance:
 
+Presentation: Brenna Armstrong
+
 __Readings:__
 
 - Clark, William R. and Mark Hallerberg. 2000. "__Mobile Capital, Domestic Institutions, and Electorally Induced Monetary and Fiscal Policy.__" American Political Science Review, 94(2), 323-346.
@@ -569,6 +590,8 @@ __Supplementary Readings:__
 
 
 ## Week 13 (04/16):  Welfare State & Distributional Politics
+
+Presentation: Ali Kagalwala
 
 __Readings:__
 
