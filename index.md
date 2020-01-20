@@ -11,7 +11,7 @@ __Email:__ fhollenbach@tamu.edu; __Web:__ [fhollenbach.org](fhollenbach.org)
 
 __Office:__ 332 LASB; __Phone:__ 979-845-5021
 
-__Office Hours:__ Monday 2:00 pm to 4:00 pm or by appointment
+__Office Hours:__ Monday 3:00 pm to 4:30 pm & Thursdays 3:00 pm to 4:30 pm (or by appointment)
 
 
 ### CLASS MEETINGSS:
@@ -89,7 +89,7 @@ Your grade will be based on the following:
 
 - __In-Class Presentation:__ Each of you will give one in-class presentation (~12 min) about a paper in the supplementary reading list. You can pick any of the papers listed under the ``Additional Readings'' list on the date you selected. For your presentation, imagine you are the author of the paper and are preparing a conference presentation for this paper. You should make sure that your presentation is correct and that you practice your presentation beforehand. The goal is for you to demonstrate your understanding of the paper and practice presentation skills. Keep in mind that other students in the class have not read the paper, so your presentation should make it accessible to all. Presentations will be graded on content and delivery.
 
-- __Discussion Paper:__ Each student will write a discussion paper on readings for one of the weeks. Your discussion paper should cover the required readings for the given week, __plus two items from the Additional Readings'' list.__ You do not need to talk about every single one of the required readings and your discussion paper should not just be a summary of the individual readings. Instead, try to synthesize the readings and find a common theme for the discussion (this might affect how you choose two of the additional readings). Your review should be approximately five pages long (double spaced, excluding the bibliography). You may want to pick a week that is related to your research paper. You are welcome to use parts of your discussion paper in the final paper. Discussion Papers are due prior to class of the selected week. 
+- __Discussion Paper:__ Each student will write a discussion paper on readings for one of the weeks. Your discussion paper should cover the required readings for the given week, __plus two items from the Additional Readings'' list.__ You do not need to talk about every single one of the required readings and your discussion paper should not just be a summary of the individual readings. Instead, try to synthesize the readings and find a common theme for the discussion (this might affect how you choose two of the additional readings). Your review should be approximately five pages long (double spaced, excluding the bibliography). You may want to pick a week that is related to your research paper. You are welcome to use parts of your discussion paper in the final paper. Discussion Papers are due prior to class of the selected week. Discussion papers should not be on the same topic as your in-class presentation.
 
 - __Final Presentation:__ We will have a mini-conference on April 23 (most likely split over two days) for each of you to present your final project. Your presentation should be similar to a conference presentation (~ 12 min) about your final research paper and cover the whole research project (i.e., motivation, theory, results). You will receive feedback on your presentation, which you should incorporate into your final paper. You must share your final presentation with me and your peer-review partner on Sunday evening prior to the presentation (April 19th, 5pm). 
 
