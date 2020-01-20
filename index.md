@@ -267,9 +267,13 @@ Sage Handbook of Comparative Politics. [Link](http://sites.uci.edu/peofgs/files/
 __Supplementary Readings:__ 
 
 - Ansell Ben and David Samuels. 2014. Inequality and Democratization: An Elite Competition Approach. Cambridge University Press. Selected Chapters 
+- Mukand, Sharun W and Dani Rodrik. 2020. "__The Political Economy of Liberal Democracy.__" The Economic Journal. Online First. 
+- Acemoglu, Daron and James A. Robinson. 2000. "__Why Did the West Extend the Franchise?__" Quarterly Journal of Economics. 115(4): 1167-1199.
+- Acemoglu, Daron, and James A. Robinson. 2017.“Why Did the WestExtend the Franchise? A Correction.”Unpublished manuscript
+- Castañeda Dower, Paul and Evgeny Finkel and Scott Gehlbach and Steven Nafziger. 2020. "__Democratization as a Continuous Choice: A Comment on Acemoglu and Robinson’s Correction to 'Why Did the West Extend the Franchise?'__" Journal of Politics. Online First.
+- Castañeda Dower, Paul, Evgeny Finkel, Scott Gehlbach, and StevenNafziger. 2018. "__Collective Action and Representation in Autocracies: Evidence from Russia’s Great Reforms.__" American  Political  ScienceReview112 (1): 125–47.
 - T. S. Aidt and P. S. Jensen. 2014. Workers of the world, unite! Franchise extensions and the threat of revolution in Europe, 1820-1938. European Economic Review, 72:52--75.
 - S. Haggard and R. R. Kaufman. 2012. Inequality and Regime Change: Democratic Transitions and the Stability of Democratic Rule. American Political Science Review, 106(03):495--516.
-- D. Acemoglu and J. Robinson. 2000. Why Did the West Extend the Franchise? Quarterly Journal of Economics, 115:1167-1199
 - T. S. Aidt and R. Franck. 2015. Democratization Under the Threat of Revolution: Evidence From the Great Reform Act of 1832. Econometrica. 83(2):505-547.
 - M. Ardanaz and I. Mares. 2014. Labor Shortages, Rural Inequality, and Democratization. Comparative Political Studies. 47(12):1639--1669
 - E. Glaeser, G. Ponzetto, and A. Shleifer. 2007. Why Does Democracy Need Education? Journal of Economic Growth, 12:77-99.
@@ -395,6 +399,9 @@ __Readings:__
  
 __Supplementary Readings:__ 
 
+- Cheibub, Jose Antonio. 2006. "__Presidentialism, Parliamentarism, and Democracy.__" Cambridge, UK: Cambridge University Press. 
+- Cruz, Cesi, Julien Labonne, and Pablo Querubín. 2017. "__Politician Family Networks and Electoral Outcomes: Evidence from the Philippines.__" American Economic Review, 107 (10): 3006-3037. 
+- Opalo, Ken Ochieng'. 2019. "__Constrained Presidential Power in Africa? The Politics of Executive Rule-Making in Kenya, 1963-2013.__" British Journal of Political Science. Online First.
 - Boix, Carles. 1999. "__Setting the Rules of the Game: The Choice of Electoral Systems in Advanced Democracies.__" American Political Science Review. 93(3): 609-624. (the next five all speak to each other)
 - Iversen, Torben and David Soskice. 2006. "__Electoral Institutions, Parties, and the Politics of Coalitions: Why Some Democracies Redistribute More than Others.__" American Political Science Review. 100(2): 165-181.
 - Schröder, Valentin and Philip Manow. 2018. "__An intra-party account of electoral system choice.__" Political Science Research and Methods. First View. 1-17.
@@ -446,6 +453,8 @@ __Readings:__
   
 __Supplementary Readings:__ 
 
+- Opalo, Ken Ochieng'. 2019. "__Legislative Development in Africa: Politics and Postcolonial Legacies.__" Cambridge, UK: Cambridge University Press. 
+- Rash, Bjorn Erik and Shane Martin and Jose Antonio Cheibub. 2016. "__Parliaments and Government Formation: Unpacking Investiture Rules.__" Oxford, UK: Oxford University Press.
 - Bäck, Hanna, and Johannes Lindvall. 2015. "__Commitment problems in coalitions: A new look at the fiscal policies of multiparty governments.__" Political Science Research and Methods. 3(1): 53-72.
 - Laver M. and K. Shepsle 1990. "__Coalitions and Cabinet Government__" American Political Science Review 84:873-90.
 - Martin, Lanny W. and Stevenson, Randolph T. 2001. "__Government Formation in Parliamentary Democracies.__" American Journal of Political Science. 45(1): 33-50. 
@@ -570,6 +579,7 @@ __Readings:__
 
 __Supplementary Readings:__ 
 
+- Mangonnet, Jorge and Maria Victoria Murillo. 2020. "__Protests of Abundance: Distributive Conflict Over Agricultural Rents During the Commodities Boom in Argentina, 2003–2013.__" Comparative Political Studies. Online First. 
 - Rueda, David and Daniel Stegmueller. 2015. "__The Externalities of Inequality: Fear of Crime and Preferences for Redistribution in Western Europe.__" American Journal of Political Science. 60(2): 472-489.
 - Franko, William W. 2016. "__Political Context, Government Redistribution, and the Public’s Response to Growing Economic Inequality.__" Journal of Politics. 78(4): 957-973.
 - Barth, Erling and Henning Finseraas and Karl O. Moene. 2015. "__Political Reinforcement: How Rising Inequality Curbs Manifested Welfare Generosity__" American Journal of Political Science. 59(3): 565-577.
