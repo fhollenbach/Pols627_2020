@@ -337,7 +337,7 @@ __Supplementary Readings:__
 
 - Vogler, Jan. 2019. "__Imperial Rule, the Imposition of Bureaucratic Institutions, and their Long-Term Legacies.__" World Politics. 71(4): 806-863.
 - Tavits, Margit. 2007. "__Clarity of responsibility and corruption.__" American Journal of Political Science 51(1): 218-229.
-- Pierskalla, Jan H. and Adam Lauretig and Andrew S. Rosenberg and Audrey Sacks. Forthcoming. "__Democratization and Representative Bureaucracy - An Analysis of Promotion Patterns in Indonesia’s Civil Service, 1980-2015.__" American Journal of Political Science. 
+- Pierskalla, Jan H. and Adam Lauretig and Andrew S. Rosenberg and Audrey Sacks. Forthcoming. "__Democratization and Representative Bureaucracy - An Analysis of Promotion Patterns in Indonesia’s Civil Service, 1980-2015.__" American Journal of Political Science. (On Google Drive).
 - Dixit Avinash and John Londegran. 1996. "__The Determinants of Success of Special Interests in Redistributive Politics.__" Journal of Politics. 58(4): 1132-1155.
 - Pepinsky, Thomas B. and Jan H. Pierskalla and Audrey Sacks. 2017. "__Bureaucracy and Service Delivery.__" Annual Review of Political Science. 20(1): 249-268. 
 - Grossman, Gene M., and Elhanan Helpman. 1994. ‘Protection for Sale’ American Economic Review 84, 833-850
@@ -366,7 +366,7 @@ __Supplementary Readings:__
  
 ## Week 7 (02/27): Micro-Preferences & Preference Formation:
 
-Presentation: Yeon Soo Park & Jongwoo Jeong
+Presentation: Yeon Soo Park & Ali Kagalwala
 
 __Readings:__
 
@@ -591,7 +591,7 @@ __Supplementary Readings:__
 
 ## Week 13 (04/16):  Welfare State & Distributional Politics
 
-Presentation: Ali Kagalwala
+Presentation: Jongwoo Jeong
 
 __Readings:__
 
@@ -602,6 +602,7 @@ __Readings:__
 
 __Supplementary Readings:__ 
 
+- Rasmussen, Magnus and Carl Henrik Knutsen. 2020. "__Reforming to Survive: The Bolshevik Origins of Social Policies.__". Working Paper (on Google Drive)
 - Mangonnet, Jorge and Maria Victoria Murillo. 2020. "__Protests of Abundance: Distributive Conflict Over Agricultural Rents During the Commodities Boom in Argentina, 2003–2013.__" Comparative Political Studies. Online First. 
 - Rueda, David and Daniel Stegmueller. 2015. "__The Externalities of Inequality: Fear of Crime and Preferences for Redistribution in Western Europe.__" American Journal of Political Science. 60(2): 472-489.
 - Franko, William W. 2016. "__Political Context, Government Redistribution, and the Public’s Response to Growing Economic Inequality.__" Journal of Politics. 78(4): 957-973.
