@@ -462,8 +462,8 @@ Presentation: Andrea Junqueira
 
 __Readings:__
   
-- Aldrich, John H. 1995. "__Why Parties?__ Chicago, Il: University of Chicago Press. Chapter 1.
-- Ziblatt, Daniel. 2017. "__Conservative Parties and the Birth of Democracy.__" Cambridge: Cambridge University Press. Selections
+- Aldrich, John H. 1995. "__Why Parties?__ Chicago, Il: University of Chicago Press. Chapters 1 & 2.
+- Ziblatt, Daniel. 2017. "__Conservative Parties and the Birth of Democracy.__" Cambridge: Cambridge University Press. Chapters 1 & 2.
 - Martin, Lanny W. and Georg Vanberg. 2014. "__Parties and policymaking in multiparty governments: The legislative median, ministerial autonomy, and the coalition compromise.__" American Journal of Political Science. 58(4): 979-996.
 - Meng, Anne. 2019. "__Ruling Parties in Authoritarian Regimes: Rethinking Institutional Strength.__" British Journal of Political Science. Fist-View. 
   
