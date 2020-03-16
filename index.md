@@ -456,19 +456,25 @@ pp.1-64.
 
 
 
-## Week 9 (03/19): Macro-Preferences & Preference Aggregation: Political Parties & Legislative Organization:
+## Week 9 (03/26): Macro-Preferences & Preference Aggregation: Political Parties & Legislative Organization AND ALSO Retrospective & Economic Voting :
 
-Presentation: Andrea Junqueira
+Presentations: Andrea Junqueira & Thiago Moreira & James Dongjin Kim
 
 __Readings:__
   
 - Aldrich, John H. 1995. "__Why Parties?__ Chicago, Il: University of Chicago Press. Chapters 1 & 2.
-- Ziblatt, Daniel. 2017. "__Conservative Parties and the Birth of Democracy.__" Cambridge: Cambridge University Press. Chapters 1 & 2.
+- Ziblatt, Daniel. 2017. "__Conservative Parties and the Birth of Democracy.__" Cambridge: Cambridge University Press. Chapter 1.
 - Martin, Lanny W. and Georg Vanberg. 2014. "__Parties and policymaking in multiparty governments: The legislative median, ministerial autonomy, and the coalition compromise.__" American Journal of Political Science. 58(4): 979-996.
-- Meng, Anne. 2019. "__Ruling Parties in Authoritarian Regimes: Rethinking Institutional Strength.__" British Journal of Political Science. Fist-View. 
-  
-__Supplementary Readings:__ 
+- Powell, G. and G. Whitten. 1993. "__A Cross-National Analysis of Economic Voting: Taking Account of the Political Context.__" American Journal of Political Science. 37(2): 391-414.
+- Duch, Raymond M. and Randy Stevenson. 2010. "__The Global Economy, Competency, and the Economic Vote.__" Journal of Politics.
+- Williams, Laron K. and Guy D. Whitten. 2015.  "__Don't Stand So Close to Me: Spatial Contagion Effects and Party Competition.__" American Journal of Political Science.
 
+
+__Supplementary Readings:__ 
+- Ziblatt, Daniel. 2017. "__Conservative Parties and the Birth of Democracy.__" Cambridge: Cambridge University Press. Chapter 2.
+- Meng, Anne. 2019. "__Ruling Parties in Authoritarian Regimes: Rethinking Institutional Strength.__" British Journal of Political Science. Fist-View.
+- Hibbs, Douglass A. 2006. "__Voting and the Macroeconomy.__" In: The Oxford Handbook of Political Economy. Chapter 31.
+- Lindvall, Johannes.  2017. "__Economic downturns and political competition since the 1870s.__" Journal of Politics. 79(4): 1302-1314.
 - Opalo, Ken Ochieng'. 2019. "__Legislative Development in Africa: Politics and Postcolonial Legacies.__" Cambridge, UK: Cambridge University Press. 
 - Rash, Bjorn Erik and Shane Martin and Jose Antonio Cheibub. 2016. "__Parliaments and Government Formation: Unpacking Investiture Rules.__" Oxford, UK: Oxford University Press.
 - Bäck, Hanna, and Johannes Lindvall. 2015. "__Commitment problems in coalitions: A new look at the fiscal policies of multiparty governments.__" Political Science Research and Methods. 3(1): 53-72.
@@ -491,22 +497,6 @@ __Supplementary Readings:__
 - Diermeier, Daniel, Eraslan, Hülya, and Merlo, Antonio. 2003. “A Structural Model of Government Formation.” Econometrica 71 (1): 27–70. 
 - Warwick, Paul. 1979. “The Durability of Coalition Governments in Parliamentary Democracies.” Comparative Political Studies 11 (4): 465–98. 
 - Gill, Davidand  Christine  S.  Lipsmeyer.   2005.   “Soft  Money  and  Hard  Choices:  Why  PoliticalParties Would Legislate Against Soft Money Donations”Public Choice, 123(3-4):  411-438.
-  
-  
-## Week 10 (03/26): Retrospective & Economic Voting:
-
-Presentation: Thiago Moreira & James Dongjin Kim
-
-__Readings:__
-
-- Hibbs, Douglass A. 2006. "__Voting and the Macroeconomy.__" In: The Oxford Handbook of Political Economy. Chapter 31.
-- Powell, G. and G. Whitten. 1993. "__A Cross-National Analysis of Economic Voting: Taking Account of the Political Context.__" American Journal of Political Science. 37(2): 391-414.
-- Duch, Raymond M. and Randy Stevenson. 2010. "__The Global Economy, Competency, and the Economic Vote.__" Journal of Politics.
-- Williams, Laron K. and Guy D. Whitten. 2015.  "__Don't Stand So Close to Me: Spatial Contagion Effects and Party Competition.__" American Journal of Political Science
-- Lindvall, Johannes.  2017. "__Economic downturns and political competition since the 1870s.__" Journal of Politics. 79(4): 1302-1314.
-  
-__Supplementary Readings:__ 
-
 - Lewis-Beck, Michael S., and Mary Stegmaier. 2013. "__The VP-function revisited: a survey of the literature on vote and popularity functions after over 40 years.__" Public Choice 157(3-4): 367-385.
 - De La O, Ana L. 2013. "__Conditional Cash Transfers Affect Electoral Behavior? Evidence from a Randomized Experiment in Mexico.__" American Journal of Political Science, 57(1):1–14.
 - Imai, Kosuke and Gary King and Carlos Velasco Rivera. Forthcoming. "__Do Nonpartisan Programmatic Policies Generate Partisan Electoral Effects? Evidence from Two Large Scale Randomized Evaluations.__" Journal of Politics. [Link](https://gking.harvard.edu/publications/do-nonpartisan-programmatic-policies-have-partisan-electoral-effects-evidence-two)
