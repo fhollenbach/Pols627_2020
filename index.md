@@ -11,7 +11,7 @@ __Email:__ fhollenbach@tamu.edu; __Web:__ [fhollenbach.org](fhollenbach.org)
 
 __Office:__ 332 LASB; __Phone:__ 979-845-5021
 
-__Office Hours:__ Monday 3:00 pm to 4:30 pm & Thursdays 3:00 pm to 4:30 pm (or by appointment)
+__Office Hours:__ By appointment via:[https://appoint.ly/s/florian.hollenbach/introduction](https://appoint.ly/s/florian.hollenbach/introduction)
 
 
 ### CLASS MEETINGSS:
@@ -75,13 +75,13 @@ The class will meet once a week from 8:30 am to 11:20 am on Thursday. In most we
 
 Your grade will be based on the following: 
 
-1. Participation (15%) -- weekly grade average (15%) 
+1. Participation (10%) -- weekly grade average (10%) -- (previously 15%)
 2. Weekly Discussion Points (2% per week starting 01/23 - 24% )
-3. In-Class Presentation (10%)
-4. Discussion Paper (12.5%)
-5. Final Presentation (7.5%) 
-6. Discussion of Presentation (6%)
-7. Final Paper (25%)
+3. In-Class Presentation (10%) 
+4. Discussion Paper (15%) -- (previously 12.5%)
+5. Final Paper Draft (4%) -- (previously 7.5%)
+6. Discussion of Paper Draft (7%) -- (previously 7%)
+7. Final Paper (30%) -- (previously 25%)
 
 - __Participation:__ I will grade your participation each week (1-3 points) based on your contribution to the class discussion. Again, it is not the quantity but quality of participation that is important.
 
@@ -91,9 +91,9 @@ Your grade will be based on the following:
 
 - __Discussion Paper:__ Each student will write a discussion paper on readings for one of the weeks. Your discussion paper should cover the required readings for the given week, __plus two items from the Additional Readings'' list.__ You do not need to talk about every single one of the required readings and your discussion paper should not just be a summary of the individual readings. Instead, try to synthesize the readings and find a common theme for the discussion (this might affect how you choose two of the additional readings). Your review should be approximately five pages long (double spaced, excluding the bibliography). You may want to pick a week that is related to your research paper. You are welcome to use parts of your discussion paper in the final paper. Discussion Papers are due prior to class of the selected week. Discussion papers should not be on the same topic as your in-class presentation.
 
-- __Final Presentation:__ We will have a mini-conference on April 23 (most likely split over two days) for each of you to present your final project. Your presentation should be similar to a conference presentation (~ 12 min) about your final research paper and cover the whole research project (i.e., motivation, theory, results). You will receive feedback on your presentation, which you should incorporate into your final paper. You must share your final presentation with me and your peer-review partner on Sunday evening prior to the presentation (April 19th, 5pm). 
+- __Final Paper Discussion:__ Share a draft of your final paper with a peer-review partner and me. I will assign peer-review partners based on interests/topic. You will share a draft of your final paper with your peer-review partner and me by Thursday, April 23rd 7 PM. Your draft should include all sections of the final paper, i.e., Introduction, Literature Review (must not be a separate section), Theory, Research Design, Empirical Analysis (if applicable), Conclusion. You do not have to have each section entirely written out. Parts of the draft can be outlines of individual sections or bullet points. While not everything has to be written out, your draft should contain all substantive import parts of the paper, however. This means at a minimum it should have a detailed outline of your theoretical argument and present some empirical results (if applicable). 
 
-- __Discussion of Peer's Presentation:__ In addition to your own presentation, you will be discussing one of your colleague's presentation. Your discussion comments should be about 3-5 minutes long and should include at least three larger comments. 
+- __Discussion of Peer's Draft:__ Instead of research presentations, we will have a discussion about each of your drafts. First your peer review partner will give a short overview over the paper and provide a short discussion of the draft (5-10 minutes). This should be similar to the duties of a discussant at conferences. You should be critical but constructive. Try to focus on 3-5 points, if possible these should be things that can be addressed in the next week. I will also add some comments. Then we will open the floor to the class for 5 - 10 minutes. We will spend approximately 15 minutes on each paper. We will do the discussion on Monday April 27th from 8:30 am - 10:30 am and 11:00 am - 1:00 pm. I would encourage all of you to participate the full four house, but if you have conflicts you may step out during the meeting. We will set up a schedule closer to April 27. 
 
 - __Final Paper:__ Each of you will submit an original research project as the final assignment in the class. This paper should be a full research paper on a topic in comparative political economy. You should develop and empirically investigate a theoretical argument. The paper will have to make at least a theoretical or empirical contribution. __You should submit a one paragraph proposal to me by week 6 (February 20th, 5pm)__ and I encourage you to come talk to me about your paper early and often. The final paper should be prepared as if you are submitting it to the *American Journal of Political Science (AJPS)*. This means, the paper should be no longer than 10,000 words (including  main body of text, notes, references, and the headers of tables and figures). You can find the full guide lines here: [https://ajps.org/guidelines-for-manuscripts/manuscript-preparation/](https://ajps.org/guidelines-for-manuscripts/manuscript-preparation/). Your paper must be original work and solo-authored. If you are thinking about using a paper that has been part of an assignment in a different course, you must first receive permission from me and the instructor in the course the paper was previously submitted to. Any final paper should include the following sections: 
     1. Introduction
@@ -104,7 +104,7 @@ Your grade will be based on the following:
     6. Implications and Conclusions
 
 Recall that your Discussion Paper may serve as a starting point for the literature setup in your final paper.
-__The final paper is due at 5 pm on April 30th, 2020.__ Your papers will be graded on originality, creativity, contribution to the literature, adequacy of the research design, empirical execution, and writing. 
+__The final paper is due at 11:59 pm on May 3rd, 2020.__ Your papers will be graded on originality, creativity, contribution to the literature, adequacy of the research design, empirical execution, and writing. 
 
 #### Grading Scale
 The grading scale (in %) used in this class for all written assignments, and the overall class grade will be the following:
@@ -619,6 +619,7 @@ __Supplementary Readings:__
 - Lindert, Peter. 2004. Growing Public. Social Spending and Economic Growth since the Eighteenth Century. Cambridge University Press.
 - Lipsmeyer, Christine S. 2011. “Booms and Busts: How Parliamentary Governments and Economic Context Influence Welfare Policy.” International Studies Quarterly, 55: 959-980. 
    
-## Week 14 (04/23): Research Presentations
+## Week 14 (04/24): Final Paper Discussions
 
-## Week 15 (04/30) __Final Paper Due__
+
+## Week 15 (05/03 at 11:59 PM) __Final Paper Due__
