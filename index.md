@@ -523,7 +523,6 @@ __Readings:__
   
 __Supplementary Readings:__ 
 - Levi, Margaret. 1988. __Of Rule and Revenue.__ Berkeley, CA: University of California Press. Selected Chapters.
-
 - Carrillo, Paul, Dina Pomeranz, and Monica Singhal. 2017. "Dodging the Taxman: Firm Misreporting and Limits to Tax Enforcement." American Economic Journal: Applied Economics, 9 (2): 144-64. 
 - Beramendi, Pablo, and David Rueda. 2007. "__Social democracy constrained: indirect taxation in industrialized democracies.__" British Journal of Political Science 37(4): 619-641.
 - Bates, Robert H and Donald Da-Hsiang Lien. 1985. “A note on taxation, development, and representative government.” Politics & Society 14(1):53–70.
