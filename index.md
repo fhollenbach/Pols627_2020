@@ -91,7 +91,7 @@ Your grade will be based on the following:
 
 - __Discussion Paper:__ Each student will write a discussion paper on readings for one of the weeks. Your discussion paper should cover the required readings for the given week, __plus two items from the Additional Readings'' list.__ You do not need to talk about every single one of the required readings and your discussion paper should not just be a summary of the individual readings. Instead, try to synthesize the readings and find a common theme for the discussion (this might affect how you choose two of the additional readings). Your review should be approximately five pages long (double spaced, excluding the bibliography). You may want to pick a week that is related to your research paper. You are welcome to use parts of your discussion paper in the final paper. Discussion Papers are due prior to class of the selected week. Discussion papers should not be on the same topic as your in-class presentation.
 
-- __Final Paper Discussion:__ Share a draft of your final paper with a peer-review partner and me. I will assign peer-review partners based on interests/topic. You will share a draft of your final paper with your peer-review partner and me by Thursday, April 23rd 7 PM. Your draft should include all sections of the final paper, i.e., Introduction, Literature Review (must not be a separate section), Theory, Research Design, Empirical Analysis (if applicable), Conclusion. You do not have to have each section entirely written out. Parts of the draft can be outlines of individual sections or bullet points. While not everything has to be written out, your draft should contain all substantive import parts of the paper, however. This means at a minimum it should have a detailed outline of your theoretical argument and present some empirical results (if applicable). 
+- __Final Paper DiscussionDraft:__ Share a draft of your final paper with a peer-review partner and me. I will assign peer-review partners based on interests/topic. You will share a draft of your final paper with your peer-review partner and me by Thursday, April 23rd 7 PM. Your draft should include all sections of the final paper, i.e., Introduction, Literature Review (must not be a separate section), Theory, Research Design, Empirical Analysis (if applicable), Conclusion. You do not have to have each section entirely written out. Parts of the draft can be outlines of individual sections or bullet points. While not everything has to be written out, your draft should contain all substantive import parts of the paper, however. This means at a minimum it should have a detailed outline of your theoretical argument and present some empirical results (if applicable). 
 
 - __Discussion of Peer's Draft:__ Instead of research presentations, we will have a discussion about each of your drafts. First your peer review partner will give a short overview over the paper and provide a short discussion of the draft (5-10 minutes). This should be similar to the duties of a discussant at conferences. You should be critical but constructive. Try to focus on 3-5 points, if possible these should be things that can be addressed in the next week. I will also add some comments. Then we will open the floor to the class for 5 - 10 minutes. We will spend approximately 15 minutes on each paper. We will do the discussion on Monday April 27th from 8:30 am - 10:30 am and 11:00 am - 1:00 pm. I would encourage all of you to participate the full four house, but if you have conflicts you may step out during the meeting. We will set up a schedule closer to April 27. 
 
@@ -514,8 +514,7 @@ __Supplementary Readings:__
 Presentation: Joo Won Yi
 
 __Readings:__
-
-- Levi, Margaret. 1988. __Of Rule and Revenue.__ Berkeley, CA: University of California Press. Selected Chapters.
+- Przeworski, Adam and Michael Wallerstein. 1982. "__The Structural Dependency of the State on Capital.__" American Political Science Review. 82(1): 11-21.
 - Kasara, Kimuli. 2007. "__Tax Me If You Can: Ethnic Geography, Democracy, and the Taxation of Agriculture in Africa.__" American Political Science Review. 101(1): 159-172.
 - Scheve, Kenneth and David Stasavage. 2012. "__Democracy, war, and wealth: lessons from two centuries of inheritance taxation.__" American Political Science Review. 106(1): 81-102.
 - Paler, Laura. 2013. “Keeping the public purse: An experiment in windfalls, taxes, and the incentives to restrain government.” American Political Science Review 107(4):706–725.
@@ -523,8 +522,8 @@ __Readings:__
 
   
 __Supplementary Readings:__ 
+- Levi, Margaret. 1988. __Of Rule and Revenue.__ Berkeley, CA: University of California Press. Selected Chapters.
 
-- Przeworski, Adam and Michael Wallerstein. 1982. "__The Structural Dependency of the State on Capital.__" American Political Science Review. 82(1): 11-21.
 - Carrillo, Paul, Dina Pomeranz, and Monica Singhal. 2017. "Dodging the Taxman: Firm Misreporting and Limits to Tax Enforcement." American Economic Journal: Applied Economics, 9 (2): 144-64. 
 - Beramendi, Pablo, and David Rueda. 2007. "__Social democracy constrained: indirect taxation in industrialized democracies.__" British Journal of Political Science 37(4): 619-641.
 - Bates, Robert H and Donald Da-Hsiang Lien. 1985. “A note on taxation, development, and representative government.” Politics & Society 14(1):53–70.
