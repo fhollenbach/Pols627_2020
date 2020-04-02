@@ -583,14 +583,14 @@ Presentation: Jongwoo Jeong
 
 __Readings:__
 
-- Meltzer, Alan H. and Scott F. Richard. 1981. "__A Rational Theory of the Size of Government.__" The Journal of Political Economy. 89(5):914–927.
 - Iversen, Torben and David Soskice. 2006. "__Electoral Institutions, Parties, and the Politics of Class: Why Some Democracies Redistribute More than Others.__" American Political Science Review. 100(2):  165-181.
-- Holland, Alisha C. 2016. "__Forebearance.__" American Political Science Review. 110(2): 232-246.
 - Moene, Karl O. and Michael Wallerstein. 2001. "__Inequality, Social Insurance, and Redistribution.__" American Political Science Review. 95(4):859-74.
+- Bradley, David and Evelyne Huber and Stephanie Moller and François Nielsen and John D. Stephens. 2003. "__Distribution and Redistribution in Postindustrial Democracies.__" World Politics. 55(2): 193-228. 
+- Rasmussen, Magnus and Carl Henrik Knutsen. 2020. "__Reforming to Survive: The Bolshevik Origins of Social Policies.__". Working Paper (on Google Drive)
+- Holland, Alisha C. 2016. "__Forebearance.__" American Political Science Review. 110(2): 232-246.
 
 __Supplementary Readings:__ 
-
-- Rasmussen, Magnus and Carl Henrik Knutsen. 2020. "__Reforming to Survive: The Bolshevik Origins of Social Policies.__". Working Paper (on Google Drive)
+- Meltzer, Alan H. and Scott F. Richard. 1981. "__A Rational Theory of the Size of Government.__" The Journal of Political Economy. 89(5):914–927.
 - Mangonnet, Jorge and Maria Victoria Murillo. 2020. "__Protests of Abundance: Distributive Conflict Over Agricultural Rents During the Commodities Boom in Argentina, 2003–2013.__" Comparative Political Studies. Online First. 
 - Rueda, David and Daniel Stegmueller. 2015. "__The Externalities of Inequality: Fear of Crime and Preferences for Redistribution in Western Europe.__" American Journal of Political Science. 60(2): 472-489.
 - Franko, William W. 2016. "__Political Context, Government Redistribution, and the Public’s Response to Growing Economic Inequality.__" Journal of Politics. 78(4): 957-973.
